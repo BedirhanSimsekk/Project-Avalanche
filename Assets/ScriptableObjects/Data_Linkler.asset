@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67b42d09a5efa914db40648b50bb735b, type: 3}
+  m_Name: Data_Linkler
+  m_EditorClassIdentifier: Assembly-CSharp::LinkCollectionData
+  sectionType: 4
+  headerTitle: "\u0130LET\u0130\u015E\u0130M VE L\u0130NKLER"
+  items:
+  - icon: {fileID: 21300000, guid: 34e35dc3f8cb95d4a9947bfe90eb288b, type: 3}
+    title: E-Posta
+    description: 
+    url: mailto:bedirhan94651@gmail.com
+  - icon: {fileID: 21300000, guid: d629e239ab3a6c74381ad7f877b4f2d2, type: 3}
+    title: GitHub
+    description: 
+    url: https://github.com/BedirhanSimsekk
+  - icon: {fileID: 21300000, guid: 13ec2babcb88964488b0dbc059f012d4, type: 3}
+    title: LinkedIn
+    description: 
+    url: https://www.linkedin.com/in/bedirhansimsek61/
+  - icon: {fileID: 21300000, guid: 2fc7a71445a6d76448d820956d23bfe1, type: 3}
+    title: Itch.io
+    description: 
+    url: https://becocs.itch.io/
+  - icon: {fileID: 21300000, guid: d37187a3e9e2e2243a8b669ed40c85ad, type: 3}
+    title: Linkler
+    description: 
+    url: https://linktr.ee/bbedirhansimsek

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbfe3c38dbccb2c49995566155f7df47, type: 3}
+  m_Name: Data_Deneyim
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectAvalanche.Data.CVDataSO
+  sectionType: 2
+  title: Deneyimler
+  content: "\u2022 Erzurum Teknik \xDCniversitesi Bilgi \u0130\u015Flem | Yaz\u0131l\u0131m
+    Geli\u015Ftirici (8 Ay)\nKurum b\xFCnyesinde .NET ve ASP.NET teknolojilerini
+    kullanarak aktif olarak yaz\u0131l\u0131m projeleri geli\u015Ftirdim.\n\nNot:
+    Hen\xFCz oyun geli\u015Ftirme sekt\xF6r\xFCnde profesyonel bir i\u015F deneyimim
+    bulunmamaktad\u0131r. Ancak yaz\u0131l\u0131m m\xFChendisli\u011Fi temelimi,
+    bu alandaki tutkumla birle\u015Ftirerek kendi oyun projelerimi \xFCretmeye ve
+    sekt\xF6rdeki ilk profesyonel ad\u0131m\u0131ma haz\u0131rlanmaya devam ediyorum."

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbfe3c38dbccb2c49995566155f7df47, type: 3}
+  m_Name: Data_Yetenekler
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectAvalanche.Data.CVDataSO
+  sectionType: 1
+  title: "BECER\u0130LER VE ARA\xC7LAR"
+  content: "\u2022 Programlama & Teknolojiler: Unity, C#, .NET, ASP.NET, Flutter,
+    Dart, Java\n\u2022 Veri Taban\u0131: MSSQL\n\u2022 Tasar\u0131m & Kurgu: Adobe
+    Premiere Pro, Autodesk Maya\n\u2022 Yabanc\u0131 Dil: \u0130ngilizce (B1)\n"
