@@ -6,6 +6,7 @@ namespace ProjectAvalanche.Data
         Yetenekler,
         Deneyim,
         Projeler,
-        Linkler
+        Linkler,
+        KoridorBilgi
     }
 }
